@@ -1,0 +1,3 @@
+BOT_TOKEN = ""
+ADMINS = [1874274703]
+IP = "ip"
